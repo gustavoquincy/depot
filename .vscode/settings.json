@@ -22,5 +22,6 @@
         "HTML (Eex)",
         "plist",
         "*"
-    ]
+    ],
+    "ruby.rubocop.executePath": "/Users/kaiy/.rbenv/shims/ruby/bin"
 }
